@@ -34,6 +34,7 @@ with yarn or npm
  $ npm run dev
 ```
 
-<!-- ### Heroku
+### Heroku
+
 The application is hosted on this dyno URL:
-<a href="#"> https://mucyo-property-pro-lite.herokuapp.com/api/v2 </a> -->
+<a href="#"> https://ngabo-node-chat-app.herokuapp.com/ </a>
